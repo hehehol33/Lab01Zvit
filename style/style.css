@@ -1,0 +1,96 @@
+.image {
+    object-fit: cover;
+    width: 200px;
+    height: 200px;
+}
+
+.image-div {
+    text-align: right;
+    margin-top: -50px;
+}
+
+.sec-but {
+    text-align: center;
+}
+
+button {
+    padding: 20px;
+    margin: 2px;
+    color: #fff;
+    background-color: #FFA500; /* Оранжевый */
+    border: 0px;
+    border-radius: 5px;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+.format-1 {
+    background-color: #FF8C00; /* Темно-оранжевый */
+    font-size: 18px;
+    width: 400px;
+    height: 75px;
+}
+
+.but-st {
+    background-color: #FFDAB9; /* Персиковый */
+    color: #FF8C00; /* Темно-оранжевый */
+    font-size: 18px;
+    width: 400px;
+    height: 75px;
+}
+
+.format-2 {
+    background-color: #FF8C00; /* Темно-оранжевый */
+    font-size: 16px;
+    padding: 15px;
+    width: 325px;
+    margin-left: 75px;
+}
+
+.desc {
+    text-align: right;
+    margin-top: -450px;
+    margin-right: 200px;
+}
+
+.img-desc {
+    width: 1898px;
+    height: 111px;
+}
+
+.img-img {
+    width: 1535px;
+    height: 171px;
+}
+
+.img-form {
+    width: 828px;
+    height: 429px;
+}
+
+.img-table {
+    width: 981px;
+    height: 1699px;
+}
+
+.img-goal {
+    width: 2138px;
+    height: 694px;
+}
+
+.img-concl {
+    width: 1967px;
+    height: 333px;
+}
+
+.desc-alt {
+    text-align: right;
+    margin-top: -450px;
+    margin-right: 100px;
+}
+
+.desc-goal {
+    text-align: right;
+    margin-top: -450px;
+    margin-right: -100px;
+}
